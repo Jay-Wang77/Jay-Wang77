@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋,I'm Jay.
 
-<!--
-**Jay-Wang77/Jay-Wang77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚗 Pursuing a Master's degree in autonomous driving, focusing on path planning and control systems.
+- 🛠 Skilled in optimizing driving algorithms using artificial intelligence techniques.
+- 🏋️‍♂️ Passionate about fitness, regularly engaging in running and boxing, believing in the power of a strong physique to tackle technical challenges.
+- 💬 Ask me about anything related to C++/Python.
+- 📫 How to reach me: junjie.wang@tum.com
+- 😄 Read more about my CSDN: [here](https://blog.csdn.net/Seinlvan?spm=1011.2124.3001.5343)
 
-Here are some ideas to get you started:
+You are my ![Visitor Count](https://profile-counter.glitch.me/Jay-Wang77/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skill Set
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Wang77&layout=compact&theme=tokyonight)
+
+
+![](https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
